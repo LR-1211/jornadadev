@@ -11,7 +11,7 @@ C -->|Sim| D[desconto = valorCompra * 0.10]
     
 D --> E[valorFinal = valorCompra - desconto]  
 
-C -->|NÆo| F[valorFinal = valorCompra]
+C -->|Nao| F[valorFinal = valorCompra]
 
 E --> G[/Escreva valorFinal/] 
     
