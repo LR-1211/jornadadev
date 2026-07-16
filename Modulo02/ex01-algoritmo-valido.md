@@ -11,7 +11,7 @@
 # c. ?Fique repetindo atÇ acabar.?
 -Resposta: Algoritmo inv†lido (N∆o).
 
--Justificativa: A ordem Ç muito vaga e n∆o Ç bem estruturada, porque n∆o Ç dito o que deve ser repetido atÇ acabar e muito menos o que sigifiica atÇ acabar, n∆o informa uma condicional de valores l¢gicos pro termino do c¢gido, o deixando em aberto.
+-Justificativa: A ordem Ç muito vaga e n∆o Ç bem estruturada, porque n∆o Ç dito o que deve ser repetido atÇ acabar e muito menos o que sigifiica atÇ acabar, n∆o informa uma condicional de valores l¢gicos pro termino do c¢gido, o deixando ambiguo e infinito.
 
 # d. ?Pegue um ingrediente qualquer e cozinhe.?
 -Resposta: Algoritmo inv†lido (N∆o).

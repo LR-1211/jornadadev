@@ -1,0 +1,3 @@
+# Resposta - Reflex∆o
+
+- Bom, o computador Ç uma m†quina de c†lculos e l¢gica impec†vel, ele realmente n∆o comete erros, apenas interpreta o que esta sendo pedido da forma mais literal o poss°vel, isto significa que normalmente somos n¢s que erramos em algum quesito do processo, n¢s programadores n∆o fazemos rodar o programa, mas sim nos comunicamos com a m†quina para que ela rode o nosso programa da maneira correta.
