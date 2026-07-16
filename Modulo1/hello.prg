@@ -1,7 +1,9 @@
+REQUEST HB_CODEPAGE_PT850
+
 FUNCTION main()
     
-    QOut("Ola, Mundo!")
-    QOut("Bem-vindo(a) Ã  Jornada DEV START!")
+    QOut("Ol , Mundo!")
+    QOut("Bem-vindo(a) … Jornada DEV START!")
 
 RETURN NIL
 
